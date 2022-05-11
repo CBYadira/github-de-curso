@@ -1,3 +1,6 @@
 saving =100
 
-print(saving)
+print("saving")
+
+#Integer
+print(10)
